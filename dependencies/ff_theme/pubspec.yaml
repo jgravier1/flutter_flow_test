@@ -13,8 +13,8 @@ dependencies:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
-  
-  dependency_overrides:
+
+dependency_overrides:
     google_fonts: 6.1.0
     path_provider: 2.1.4
     path_provider_android: 2.2.10
