@@ -17,7 +17,7 @@ class GetMicroAppsCall {
   static Future<ApiCallResponse> call() async {
     return ApiManager.instance.makeApiCall(
       callName: 'GetMicroApps',
-      apiUrl: 'https://api.jsoning.com/mock/hrzcx1sgxy/microApps',
+      apiUrl: 'https://api.jsoning.com/mock/xx3j3zob1m/microApps',
       callType: ApiCallType.GET,
       headers: {},
       params: {},
