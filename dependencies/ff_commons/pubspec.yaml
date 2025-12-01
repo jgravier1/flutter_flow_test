@@ -13,8 +13,7 @@ dependencies:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
-  super_a_p_p:
-    path: ../../
+
   collection: 1.19.1
   equatable: 2.0.7
   http: 1.4.0
