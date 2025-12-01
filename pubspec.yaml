@@ -51,7 +51,6 @@ dependencies:
   page_transition: 2.1.0
   panic_a_p_p_93xbys:
     path: ./dependencies/panic_a_p_p_93xbys # 0.0.4
-  path_provider: 2.1.4
   path_provider_android: 2.2.10
   path_provider_foundation: 2.4.0
   path_provider_linux: 2.2.1
@@ -85,6 +84,7 @@ dependencies:
 dependency_overrides:
   http: 1.4.0
   uuid: ^4.0.0
+  path_provider: 2.1.5
 
 dev_dependencies:
   flutter_lints: 4.0.0
