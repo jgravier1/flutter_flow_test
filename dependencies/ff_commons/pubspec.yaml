@@ -16,7 +16,6 @@ dependencies:
 
   
 dependency_overrides:
-  http: 1.4.0
   uuid: ^4.0.0
   collection: 1.19.1
   equatable: 2.0.7
